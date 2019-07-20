@@ -1,0 +1,12 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jsBlackBelt/sudoku-solver.git",
+  "author": "Sefi Ninio",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "lodash": "^4.17.15"
+  }
+}
